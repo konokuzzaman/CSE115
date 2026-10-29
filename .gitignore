@@ -1,0 +1,6 @@
+*.exe
+*.o
+users.txt
+doctors.txt
+appointments.txt
+temp.txt
